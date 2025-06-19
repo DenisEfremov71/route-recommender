@@ -1,0 +1,11 @@
+streamlit
+pandas
+pydantic
+pyyaml
+crewai[tools]
+googlemaps
+geopy
+email-validator
+
+# “Editable” install (installs directly from source folder)
+-e .

@@ -1,0 +1,20 @@
+departure_address: "201 Alvin Narod Mews, Vancouver, BC V6B 8P5"
+
+# API Configuration
+api_keys:
+  google_maps: "AIzaSyCIgm9vTboTzJKJ6-6SbXk-eNfhaUwpI7I"
+  
+# Email Configuration
+email:
+  recipient: "efremov@novuscom.net"  # Replace with actual recipient email
+  smtp_server: "smtp.gmail.com"  # Gmail SMTP server
+  smtp_port: 587
+  sender_email: "defremov959@gmail.com"  # Replace with your Gmail address
+  sender_password: "dnsa eewt fqen hzqs"  # Replace with Gmail App Password
+  
+# Route Optimization Preferences
+route_preferences:
+  optimize_for: "distance"  # Options: "time", "distance", "fuel"
+  avoid_tolls: false
+  avoid_highways: false
+  traffic_model: "best_guess"  # Options: "best_guess", "pessimistic", "optimistic"

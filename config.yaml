@@ -6,7 +6,7 @@ api_keys:
   
 # Email Configuration
 email:
-  recipient: "efremov@novuscom.net"  # Replace with actual recipient email
+  recipient: "nafissa@novuscom.net"  # Replace with actual recipient email
   smtp_server: "smtp.gmail.com"  # Gmail SMTP server
   smtp_port: 587
   sender_email: "defremov959@gmail.com"  # Replace with your Gmail address

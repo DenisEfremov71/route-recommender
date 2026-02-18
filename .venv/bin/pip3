@@ -1,4 +1,4 @@
-#!/Users/denis.efremov/Desktop/crewai-ui/route_recommender/.venv/bin/python3.11
+#!/Users/denis.efremov/Desktop/route-recommender/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
